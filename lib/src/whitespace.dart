@@ -7,7 +7,7 @@ library dart_style.src.whitespace;
 /// Constants for the number of spaces for various kinds of indentation.
 class Indent {
   /// The number of spaces in a block or collection body.
-  static const block = 2;
+  static const block = 4;
 
   /// How much wrapped cascade sections indent.
   static const cascade = 2;
